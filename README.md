@@ -13,3 +13,6 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Ejercicio Activities
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Activities.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/Activities.java)
+- Ejercicio Dark Souls
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/DarkSouls.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/DarkSouls.java)
