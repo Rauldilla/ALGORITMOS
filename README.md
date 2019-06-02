@@ -21,3 +21,6 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - MergeSort
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/MergeSort.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/DyV/MergeSort.java)
+- Dark Souls
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/DarkSoulsDyV.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/DyV/DarkSoulsDyV.java)
