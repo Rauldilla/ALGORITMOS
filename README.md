@@ -16,3 +16,8 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Ejercicio Dark Souls
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/DarkSouls.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/DarkSouls.java)
+
+## Divide y Vencerás
+- MergeSort
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/MergeSort.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/DyV/MergeSort.java)
