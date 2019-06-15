@@ -1,6 +1,8 @@
 # DISEÑO Y ANÁLISIS DE ALGORITMOS
 Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la asignatura Diseño y Análisis de Algoritmos de la Universidad Rey Juan Carlos (2º curso de Ingeniería del Software).
 
+*Nota: por indicación de los profesores y para agilizar la escritura de código no se siguen ciertas normas de la Orientación a Objetos.*
+
 ## Recorrido de Grafos
 - Recorrido en anchura de un grafo
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/BFS.pdf)
@@ -35,3 +37,6 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Thanos
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Thanos.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Thanos.java)
+- Repartición de examenes
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Examen.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Examen.java)
