@@ -32,3 +32,6 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Sudoku
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Sudoku.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Sudoku.java)
+- Thanos
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Thanos.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Thanos.java)
