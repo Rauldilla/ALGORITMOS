@@ -63,6 +63,8 @@ public class Pacto {
             index++;
         }
 
+        // Aunque en el enunciado no aparece establecido, en el EXAMEN se pedia a mayores que
+        // los elementos de la solucion estuviesen ordenados alfabeticamente
         Collections.sort(solucion, new Comparator<Candidato>() {
             @Override
             public int compare(Candidato o1, Candidato o2) {
