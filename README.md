@@ -3,6 +3,8 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 
 *Nota: por indicación de los profesores y para agilizar la escritura de código no se siguen ciertas normas de la Orientación a Objetos.*
 
+**Ejercicios de EXAMEN en negrita**
+
 ## Recorrido de Grafos
 - Recorrido en anchura de un grafo
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/BFS.pdf)
@@ -18,6 +20,9 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Ejercicio Dark Souls
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/DarkSouls.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/DarkSouls.java)
+- **Ejercicio del Pacto**
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Pacto.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/Pacto.java)
 
 ## Divide y Vencerás (Divide and Conquer)
 - MergeSort
