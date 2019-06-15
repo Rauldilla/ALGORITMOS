@@ -29,3 +29,6 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Laberinto
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Laberinto.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Laberinto.java)
+- Sudoku
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Sudoku.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Sudoku.java)
