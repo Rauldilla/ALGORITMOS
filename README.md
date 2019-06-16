@@ -5,6 +5,8 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 
 **Ejercicios de EXAMEN en negrita**
 
+Pequeña serie de consejos que a mi me funcionan para enfrentarme a los ejercicios -> [Guía](https://github.com/Rauldilla/Algoritmos/blob/master/GUIA.md)
+
 ## Recorrido de Grafos
 - Recorrido en anchura de un grafo
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/BFS.pdf)
@@ -39,7 +41,7 @@ Repositorio con diferentes soluciones a problemas, ejercicios y tests sobre la a
 - Sudoku
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Sudoku.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Sudoku.java)
-- Thanos
+- **Thanos**
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Thanos.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Thanos.java)
 - Repartición de examenes
