@@ -44,6 +44,6 @@ Pequeña serie de consejos que a mi me funcionan para enfrentarme a los ejercici
 - **Thanos**
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Thanos.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Thanos.java)
-- Repartición de examenes
+- **Repartición de examenes**
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Examen.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Examen.java)
