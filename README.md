@@ -53,3 +53,6 @@ Pequeña serie de consejos que a mi me funcionan para enfrentarme a los ejercici
 - **Repartición de examenes**
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Examen.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Examen.java)
+- **Ikea**
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Ikea.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Backtracking/Ikea.java)
