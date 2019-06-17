@@ -36,6 +36,9 @@ Pequeña serie de consejos que a mi me funcionan para enfrentarme a los ejercici
 - Dark Souls
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/DarkSoulsDyV.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/DyV/DarkSoulsDyV.java)
+- **Selección de Enemigos**
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/SeleccionEnemigos.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/DyV/SeleccionEnemigos.java)
 
 ## Vuelta Atrás (Backtracking)
 - Laberinto
