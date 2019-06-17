@@ -25,6 +25,9 @@ Pequeña serie de consejos que a mi me funcionan para enfrentarme a los ejercici
 - **Ejercicio del Pacto**
   - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Pacto.pdf)
   - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/Pacto.java)
+- **Activities 2**
+  - [Enunciado](https://github.com/Rauldilla/Algoritmos/blob/master/enunciados/Activities2.pdf)
+  - [Solución](https://github.com/Rauldilla/Algoritmos/blob/master/src/Voraces/Activities2.java)
 
 ## Divide y Vencerás (Divide and Conquer)
 - MergeSort
